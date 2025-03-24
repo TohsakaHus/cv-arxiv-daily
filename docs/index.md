@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.21
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4434,6 +4434,21 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## semiconductor quantum dot
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment**|Léo Noirot et.al.|[2503.10788](http://arxiv.org/abs/2503.10788)|null|
+|**2025-03-12**|**Entanglement and purity can help to detect systematic experimental errors**|Julia Freund et.al.|[2503.09459](http://arxiv.org/abs/2503.09459)|null|
+|**2025-03-12**|**Temporal CW polarization-tomography of photon pairs from the biexciton radiative cascade: theory and experiment**|Noam Tur et.al.|[2503.03268](http://arxiv.org/abs/2503.03268)|null|
+|**2025-02-21**|**RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices**|Motoya Shinozaki et.al.|[2502.15239](http://arxiv.org/abs/2502.15239)|null|
+|**2025-02-20**|**Passive Demultiplexed Two-photon State Generation from a Quantum Dot**|Yusuf Karli et.al.|[2502.14806](http://arxiv.org/abs/2502.14806)|null|
+|**2025-02-18**|**Predictive simulations of the dynamical response of mesoscopic devices**|Samuel Boutin et.al.|[2502.12960](http://arxiv.org/abs/2502.12960)|null|
+|**2025-03-20**|**A trilinear quantum dot architecture for semiconductor spin qubits**|R. Li et.al.|[2501.17814](http://arxiv.org/abs/2501.17814)|null|
+|**2025-01-29**|**Two-photon interference between mutually-detuned resonance fluorescence signals scattered off a semiconductor quantum dot**|Guoqi Huang et.al.|[2501.16939](http://arxiv.org/abs/2501.16939)|null|
+|**2025-01-26**|**On-demand storage and retrieval of single photons from a semiconductor quantum dot in a room-temperature atomic vapor memory**|Benjamin Maaß et.al.|[2501.15663](http://arxiv.org/abs/2501.15663)|null|
+|**2025-01-08**|**Eliminating the confined dark-exciton qubit precession using an externally applied magnetic field**|Zu-En Su et.al.|[2501.04617](http://arxiv.org/abs/2501.04617)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

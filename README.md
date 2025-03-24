@@ -1,4 +1,4 @@
-## Updated on 2025.03.21
+## Updated on 2025.03.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -10,6 +10,7 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#semiconductor-quantum-dot>semiconductor quantum dot</a></li>
   </ol>
 </details>
 
@@ -871,7 +872,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## SFM
 
@@ -1237,7 +1238,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2328,7 +2329,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2621,7 +2622,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2932,7 +2933,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 ## NeRF
 
@@ -4453,7 +4454,24 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+
+## semiconductor quantum dot
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-03-13**|**Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment**|Léo Noirot et.al.|[2503.10788](http://arxiv.org/abs/2503.10788)|null|
+|**2025-03-12**|**Entanglement and purity can help to detect systematic experimental errors**|Julia Freund et.al.|[2503.09459](http://arxiv.org/abs/2503.09459)|null|
+|**2025-03-12**|**Temporal CW polarization-tomography of photon pairs from the biexciton radiative cascade: theory and experiment**|Noam Tur et.al.|[2503.03268](http://arxiv.org/abs/2503.03268)|null|
+|**2025-02-21**|**RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices**|Motoya Shinozaki et.al.|[2502.15239](http://arxiv.org/abs/2502.15239)|null|
+|**2025-02-20**|**Passive Demultiplexed Two-photon State Generation from a Quantum Dot**|Yusuf Karli et.al.|[2502.14806](http://arxiv.org/abs/2502.14806)|null|
+|**2025-02-18**|**Predictive simulations of the dynamical response of mesoscopic devices**|Samuel Boutin et.al.|[2502.12960](http://arxiv.org/abs/2502.12960)|null|
+|**2025-03-20**|**A trilinear quantum dot architecture for semiconductor spin qubits**|R. Li et.al.|[2501.17814](http://arxiv.org/abs/2501.17814)|null|
+|**2025-01-29**|**Two-photon interference between mutually-detuned resonance fluorescence signals scattered off a semiconductor quantum dot**|Guoqi Huang et.al.|[2501.16939](http://arxiv.org/abs/2501.16939)|null|
+|**2025-01-26**|**On-demand storage and retrieval of single photons from a semiconductor quantum dot in a room-temperature atomic vapor memory**|Benjamin Maaß et.al.|[2501.15663](http://arxiv.org/abs/2501.15663)|null|
+|**2025-01-08**|**Eliminating the confined dark-exciton qubit precession using an externally applied magnetic field**|Zu-En Su et.al.|[2501.04617](http://arxiv.org/abs/2501.04617)|null|
+
+<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
