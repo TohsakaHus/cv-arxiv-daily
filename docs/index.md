@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-31**|**Exchange cross-talk mitigation in dense quantum dot arrays**|Daniel Jirovec et.al.|[2503.23846](http://arxiv.org/abs/2503.23846)|null|
+|**2025-03-30**|**Measurement-induced back-action and spin-to-polarization mapping in a quantum dot-based receiver**|Adrìa Medeiros et.al.|[2503.23593](http://arxiv.org/abs/2503.23593)|null|
 |**2025-03-13**|**Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment**|Léo Noirot et.al.|[2503.10788](http://arxiv.org/abs/2503.10788)|null|
 |**2025-03-12**|**Entanglement and purity can help to detect systematic experimental errors**|Julia Freund et.al.|[2503.09459](http://arxiv.org/abs/2503.09459)|null|
 |**2025-03-12**|**Temporal CW polarization-tomography of photon pairs from the biexciton radiative cascade: theory and experiment**|Noam Tur et.al.|[2503.03268](http://arxiv.org/abs/2503.03268)|null|
