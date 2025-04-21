@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-16**|**Optimizing the quantum interference between single photons and local oscillator with photon correlations**|Hubert Lam et.al.|[2504.12111](http://arxiv.org/abs/2504.12111)|null|
 |**2025-04-09**|**Identifying and mitigating errors in hole spin qubit readout**|Eoin Gerard Kelly et.al.|[2504.06898](http://arxiv.org/abs/2504.06898)|null|
 |**2025-03-31**|**Exchange cross-talk mitigation in dense quantum dot arrays**|Daniel Jirovec et.al.|[2503.23846](http://arxiv.org/abs/2503.23846)|null|
 |**2025-03-30**|**Measurement-induced back-action and spin-to-polarization mapping in a quantum dot-based receiver**|Adrìa Medeiros et.al.|[2503.23593](http://arxiv.org/abs/2503.23593)|null|
