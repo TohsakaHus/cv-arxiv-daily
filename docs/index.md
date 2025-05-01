@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.26
+## Updated on 2025.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
+|**2025-04-29**|**Optical Activity of Group III-V Quantum Dots Directly Embedded in Silicon**|M. Gawełczyk et.al.|[2504.20981](http://arxiv.org/abs/2504.20981)|null|
+|**2025-04-29**|**A foundry-fabricated spin qubit unit cell with in-situ dispersive readout**|Pierre Hamonic et.al.|[2504.20572](http://arxiv.org/abs/2504.20572)|null|
+|**2025-04-29**|**Initialization of Neutral and Charged Exciton Spin States in a Telecom-Emitting Quantum Dot**|Giora Peniakov et.al.|[2504.20497](http://arxiv.org/abs/2504.20497)|null|
+|**2025-04-28**|**On-chip calibrated radio-frequency measurement at cryogenic temperatures for determination of SrTiO3-based capacitor properties**|Akitomi Shirachi et.al.|[2504.20311](http://arxiv.org/abs/2504.20311)|null|
+|**2025-04-27**|**Few-electron spin qubits in optically active GaAs quantum dots**|Peter Millington-Hotze et.al.|[2504.19257](http://arxiv.org/abs/2504.19257)|null|
+|**2025-04-25**|**Dressed basis sets for the modeling of exchange interactions in double quantum dots**|Mauricio J. Rodríguez et.al.|[2504.18281](http://arxiv.org/abs/2504.18281)|null|
 |**2025-04-16**|**Optimizing the quantum interference between single photons and local oscillator with photon correlations**|Hubert Lam et.al.|[2504.12111](http://arxiv.org/abs/2504.12111)|null|
 |**2025-04-09**|**Identifying and mitigating errors in hole spin qubit readout**|Eoin Gerard Kelly et.al.|[2504.06898](http://arxiv.org/abs/2504.06898)|null|
 |**2025-03-31**|**Exchange cross-talk mitigation in dense quantum dot arrays**|Daniel Jirovec et.al.|[2503.23846](http://arxiv.org/abs/2503.23846)|null|
