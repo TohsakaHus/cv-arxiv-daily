@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-03**|**Monitoring the generation of photonic linear cluster states with partial measurements**|Valentin Guichard et.al.|[2505.01929](http://arxiv.org/abs/2505.01929)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
 |**2025-04-29**|**Optical Activity of Group III-V Quantum Dots Directly Embedded in Silicon**|M. Gawełczyk et.al.|[2504.20981](http://arxiv.org/abs/2504.20981)|null|
 |**2025-04-29**|**A foundry-fabricated spin qubit unit cell with in-situ dispersive readout**|Pierre Hamonic et.al.|[2504.20572](http://arxiv.org/abs/2504.20572)|null|
