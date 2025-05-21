@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.16
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Analytical Fidelity Calculations for Photonic Linear Cluster State Generation**|Rohit Prasad et.al.|[2505.11078](http://arxiv.org/abs/2505.11078)|null|
+|**2025-05-16**|**Purcell enhanced and tunable single-photon emission at telecom wavelengths from InAs quantum dots in circular photonic crystal resonators**|Andrea Barbiero et.al.|[2505.11069](http://arxiv.org/abs/2505.11069)|null|
 |**2025-05-14**|**Deterministic Quantum Dot Cavity Placement Using Hyperspectral Imaging with High Spatial Accuracy and Precision**|Quirin Buchinger et.al.|[2505.09220](http://arxiv.org/abs/2505.09220)|null|
 |**2025-05-03**|**Monitoring the generation of photonic linear cluster states with partial measurements**|Valentin Guichard et.al.|[2505.01929](http://arxiv.org/abs/2505.01929)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
