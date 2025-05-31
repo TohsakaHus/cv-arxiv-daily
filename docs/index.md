@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Telecom quantum dots on GaAs substrates as integration-ready high performance single-photon sources**|Beatrice Costa et.al.|[2505.22886](http://arxiv.org/abs/2505.22886)|null|
 |**2025-05-16**|**Analytical Fidelity Calculations for Photonic Linear Cluster State Generation**|Rohit Prasad et.al.|[2505.11078](http://arxiv.org/abs/2505.11078)|null|
 |**2025-05-16**|**Purcell enhanced and tunable single-photon emission at telecom wavelengths from InAs quantum dots in circular photonic crystal resonators**|Andrea Barbiero et.al.|[2505.11069](http://arxiv.org/abs/2505.11069)|null|
 |**2025-05-14**|**Deterministic Quantum Dot Cavity Placement Using Hyperspectral Imaging with High Spatial Accuracy and Precision**|Quirin Buchinger et.al.|[2505.09220](http://arxiv.org/abs/2505.09220)|null|
