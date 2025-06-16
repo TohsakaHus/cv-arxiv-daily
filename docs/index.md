@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.11
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Automated All-RF Tuning for Spin Qubit Readout and Control**|Cornelius Carlsson et.al.|[2506.10834](http://arxiv.org/abs/2506.10834)|null|
+|**2025-06-12**|**VQC-MLPNet: An Unconventional Hybrid Quantum-Classical Architecture for Scalable and Robust Quantum Machine Learning**|Jun Qi et.al.|[2506.10275](http://arxiv.org/abs/2506.10275)|null|
 |**2025-05-28**|**Telecom quantum dots on GaAs substrates as integration-ready high performance single-photon sources**|Beatrice Costa et.al.|[2505.22886](http://arxiv.org/abs/2505.22886)|null|
 |**2025-05-16**|**Analytical Fidelity Calculations for Photonic Linear Cluster State Generation**|Rohit Prasad et.al.|[2505.11078](http://arxiv.org/abs/2505.11078)|null|
 |**2025-05-16**|**Purcell enhanced and tunable single-photon emission at telecom wavelengths from InAs quantum dots in circular photonic crystal resonators**|Andrea Barbiero et.al.|[2505.11069](http://arxiv.org/abs/2505.11069)|null|
