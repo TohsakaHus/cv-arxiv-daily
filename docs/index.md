@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Dynamically Dressed States of a Quantum Four-Level System**|Carolin Calcagno et.al.|[2506.14643](http://arxiv.org/abs/2506.14643)|null|
 |**2025-06-12**|**Automated All-RF Tuning for Spin Qubit Readout and Control**|Cornelius Carlsson et.al.|[2506.10834](http://arxiv.org/abs/2506.10834)|null|
 |**2025-06-12**|**VQC-MLPNet: An Unconventional Hybrid Quantum-Classical Architecture for Scalable and Robust Quantum Machine Learning**|Jun Qi et.al.|[2506.10275](http://arxiv.org/abs/2506.10275)|null|
 |**2025-05-28**|**Telecom quantum dots on GaAs substrates as integration-ready high performance single-photon sources**|Beatrice Costa et.al.|[2505.22886](http://arxiv.org/abs/2505.22886)|null|
