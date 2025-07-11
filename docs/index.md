@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.06
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4439,6 +4439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Model of luminescence and delayed luminescence correlated blinking in single CsPbBr $_3$ nanocrystals**|Eduard A. Podshivaylov et.al.|[2507.06100](http://arxiv.org/abs/2507.06100)|null|
+|**2025-07-07**|**Multi-photon emission from a resonantly pumped quantum dot**|Francesco Giorgino et.al.|[2507.04843](http://arxiv.org/abs/2507.04843)|null|
 |**2025-06-24**|**High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity**|Fabian Oppliger et.al.|[2506.19828](http://arxiv.org/abs/2506.19828)|null|
 |**2025-06-17**|**Dynamically Dressed States of a Quantum Four-Level System**|Carolin Calcagno et.al.|[2506.14643](http://arxiv.org/abs/2506.14643)|null|
 |**2025-06-12**|**Automated All-RF Tuning for Spin Qubit Readout and Control**|Cornelius Carlsson et.al.|[2506.10834](http://arxiv.org/abs/2506.10834)|null|
